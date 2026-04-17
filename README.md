@@ -1,2 +1,1 @@
-# Senai-1TD1
-Projetos do 1°Termo
+#Aula SOP 17/04/2026 :P
